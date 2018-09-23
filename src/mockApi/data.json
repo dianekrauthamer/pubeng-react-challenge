@@ -34,5 +34,20 @@
       { "id": 8, "name": "Jude Law" },
       { "id": 9, "name": "Samuel L. Jackson" }
     ]
-  }
+  },
+    //Added my favorite Marvel movie
+  "5": {
+    "title": "Doctor Strange",
+    "rating": 9,
+    "description": "After a terrible accident, Dr. Stephen Strange is thrust onto the front line in a battle against unseen dark forces bent on destroying our reality.",
+    "year": 2016,
+    "upcoming": false,
+    "cast": [
+      { "id": 10, "name": "Benedict Cumberbatch" },
+      { "id": 11, "name": " Chiwetel Ejiofor" },
+      { "id": 12, "name": "Rachel McAdams" }
+    ]
+  }  
+    
+    
 }
