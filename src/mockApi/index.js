@@ -14,7 +14,7 @@ const get = id => new Promise((resolve, reject) => {
 })
 
 /**
- * Displays UI states when completing an update request, and when the update is complete
+ * UPDATED to display UI states when completing an update request, and when the update is complete
  
  * @param {any} data 
  */
